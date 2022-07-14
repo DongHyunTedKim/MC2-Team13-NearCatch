@@ -105,7 +105,7 @@ This is a body part. Please describe the details of commit.
 
 ## :people_hugging: Authors
 
-- [@김예훈](https://github.com/eraser3031) | [@류현선](https://www.github.com/hs-ryu) | [@이준영](https://github.com/User-Lawn) | [@조현민](https://github.com/uudquark) | [@최원혁](https://github.com/DevLuce) | [@황찬기](https://github.com/DevMizeKR)
+- [@김예훈](https://github.com/eraser3031) | [@류현선](https://www.github.com/hs-ryu) | [@이준영](https://github.com/User-Lawn) | [@조현민](https://github.com/Tempnixk) | [@최원혁](https://github.com/DevLuce) | [@황찬기](https://github.com/DevMizeKR)
   
 ## :books: Documentation
 
