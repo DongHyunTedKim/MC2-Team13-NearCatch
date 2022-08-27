@@ -53,7 +53,7 @@
 ## :sparkles: Skills & Tech Stack
 1. 이슈관리 : Miro
 2. 형상관리 : Github
-3. 커뮤니케이션 : Ryver, Notion, Zoom<br>
+3. 커뮤니케이션 : Ryver, Slack, Notion, Zoom<br>
 4. 개발환경
 - OS : MacOS(M1Pro)
 - IDE : Xcode 13.4.1
